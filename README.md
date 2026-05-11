@@ -4,7 +4,7 @@ Predicting which e-commerce orders will be returned or canceled before they happ
 
 ## Live Interactive Dashboard
 
-[View on Tableau Public](https://public.tableau.com/authoring/ReturnsintelligenceAI/Dashboard1#1)
+[View on Tableau Public](https://public.tableau.com/app/profile/pranavi.gantla/viz/ReturnsintelligenceAI/Dashboard1)
 
 ## Project Overview
 
