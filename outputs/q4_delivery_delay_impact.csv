@@ -1,0 +1,7 @@
+delivery_bucket,n_orders,return_rate_pct
+Not delivered,2965,79.87
+Very late (5+ days),3765,75.96
+Late (1-5 days),2770,40.43
+On time,1292,12.15
+Early,6660,11.05
+Very early (5+ days),81989,8.99

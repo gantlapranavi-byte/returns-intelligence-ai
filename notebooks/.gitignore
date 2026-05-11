@@ -1,0 +1,10 @@
+venv/
+data/*.csv
+outputs/*.sqlite
+outputs/*.pkl
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.twb.lock
+Returns Intelligence AI.twb
+Returns Intelligence AI.twbx

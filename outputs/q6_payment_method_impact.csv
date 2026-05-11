@@ -1,0 +1,6 @@
+primary_payment_type,n_orders,return_rate_pct,avg_installments
+not_defined,3,100.0,1.0
+voucher,1994,19.36,1.03
+credit_card,76132,14.68,3.5
+boleto,19784,14.38,1.0
+debit_card,1527,12.9,1.0

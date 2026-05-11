@@ -1,0 +1,16 @@
+category,n_orders,n_bad_outcomes,return_rate_pct,avg_order_value,revenue_lost
+office_furniture,1265,284,22.45,269.88,87359.46
+audio,346,74,21.39,164.73,10130.79
+unknown,1437,279,19.42,148.35,44976.77
+fixed_telephony,217,40,18.43,296.42,36333.59
+home_confort,375,69,18.4,181.18,13206.88
+bed_bath_table,9311,1511,16.23,133.21,226837.06
+furniture_decor,6355,1029,16.19,142.64,180654.13
+computers_accessories,6660,1062,15.95,158.78,202081.4
+air_conditioning,252,40,15.87,245.13,10728.99
+home_construction,473,75,15.86,203.5,17889.12
+baby,2839,440,15.5,168.93,106312.0
+telephony,4182,643,15.38,94.48,71124.56
+watches_gifts,5601,838,14.96,232.65,202742.41
+furniture_living_room,417,61,14.63,209.93,19396.96
+auto,3880,557,14.36,176.62,142516.12
